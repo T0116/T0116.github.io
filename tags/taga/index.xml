@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://T0116.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>tagA on My New Hugo Site</title>
+    <link>https://T0116.github.io/tags/taga/</link>
+    <description>Recent content in tagA on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jul 2020 11:50:57 +0800</lastBuildDate>
     
-	<atom:link href="https://T0116.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://T0116.github.io/tags/taga/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://T0116.github.io/post/hello-world/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://T0116.github.io/post/test/</link>
-      <pubDate>Tue, 14 Jul 2020 09:26:41 +0800</pubDate>
-      
-      <guid>https://T0116.github.io/post/test/</guid>
-      <description></description>
     </item>
     
   </channel>
