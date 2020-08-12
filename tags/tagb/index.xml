@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tagB on Yes!ok site</title>
+    <title>tagB on Mainroad</title>
     <link>https://T0116.github.io/tags/tagb/</link>
-    <description>Recent content in tagB on Yes!ok site</description>
+    <description>Recent content in tagB on Mainroad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 21:07:35 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 23:55:28 +0800</lastBuildDate>
     
 	<atom:link href="https://T0116.github.io/tags/tagb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>123</title>
+      <link>https://T0116.github.io/post/123/</link>
+      <pubDate>Wed, 12 Aug 2020 23:55:28 +0800</pubDate>
+      
+      <guid>https://T0116.github.io/post/123/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>看看</title>
@@ -18,6 +27,33 @@
       
       <guid>https://T0116.github.io/post/%E7%9C%8B%E7%9C%8B/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>博客更新</title>
+      <link>https://T0116.github.io/post/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Wed, 12 Aug 2020 11:32:08 +0800</pubDate>
+      
+      <guid>https://T0116.github.io/post/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;如何用Git更新博客&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FileName</title>
+      <link>https://T0116.github.io/post/filename/</link>
+      <pubDate>Tue, 14 Jul 2020 14:31:38 +0800</pubDate>
+      
+      <guid>https://T0116.github.io/post/filename/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://T0116.github.io/post/hello-world/</link>
+      <pubDate>Tue, 14 Jul 2020 11:50:57 +0800</pubDate>
+      
+      <guid>https://T0116.github.io/post/hello-world/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
   </channel>
