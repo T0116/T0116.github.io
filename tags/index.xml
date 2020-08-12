@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My new Hugo site</title>
-    <link>https://t0116.github.io/tags/</link>
+    <link>https://T0116.github.io/tags/</link>
     <description>Recent content in Tags on My new Hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 10:42:49 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 11:32:08 +0800</lastBuildDate>
     
-	<atom:link href="https://t0116.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://T0116.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tagA</title>
-      <link>https://t0116.github.io/tags/taga/</link>
-      <pubDate>Wed, 12 Aug 2020 10:42:49 +0800</pubDate>
+      <link>https://T0116.github.io/tags/taga/</link>
+      <pubDate>Wed, 12 Aug 2020 11:32:08 +0800</pubDate>
       
-      <guid>https://t0116.github.io/tags/taga/</guid>
+      <guid>https://T0116.github.io/tags/taga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagB</title>
-      <link>https://t0116.github.io/tags/tagb/</link>
-      <pubDate>Wed, 12 Aug 2020 10:42:49 +0800</pubDate>
+      <link>https://T0116.github.io/tags/tagb/</link>
+      <pubDate>Wed, 12 Aug 2020 11:32:08 +0800</pubDate>
       
-      <guid>https://t0116.github.io/tags/tagb/</guid>
+      <guid>https://T0116.github.io/tags/tagb/</guid>
       <description></description>
     </item>
     
