@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tagA on My New Hugo Site</title>
-    <link>https://T0116.github.io/tags/taga/</link>
-    <description>Recent content in tagA on My New Hugo Site</description>
+    <title>tagA on My new Hugo site</title>
+    <link>https://t0116.github.io/tags/taga/</link>
+    <description>Recent content in tagA on My new Hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2020 14:31:38 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 10:42:49 +0800</lastBuildDate>
     
-	<atom:link href="https://T0116.github.io/tags/taga/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://t0116.github.io/tags/taga/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2020 8 12</title>
+      <link>https://t0116.github.io/post/2020-8-12/</link>
+      <pubDate>Wed, 12 Aug 2020 10:42:49 +0800</pubDate>
+      
+      <guid>https://t0116.github.io/post/2020-8-12/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>FileName</title>
-      <link>https://T0116.github.io/post/filename/</link>
+      <link>https://t0116.github.io/post/filename/</link>
       <pubDate>Tue, 14 Jul 2020 14:31:38 +0800</pubDate>
       
-      <guid>https://T0116.github.io/post/filename/</guid>
+      <guid>https://t0116.github.io/post/filename/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://T0116.github.io/post/hello-world/</link>
+      <link>https://t0116.github.io/post/hello-world/</link>
       <pubDate>Tue, 14 Jul 2020 11:50:57 +0800</pubDate>
       
-      <guid>https://T0116.github.io/post/hello-world/</guid>
+      <guid>https://t0116.github.io/post/hello-world/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
