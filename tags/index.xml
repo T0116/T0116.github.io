@@ -6,10 +6,28 @@
     <description>Recent content in Tags on KeepIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2020 21:59:30 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 11:14:47 +0800</lastBuildDate>
     
 	<atom:link href="https://T0116.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tagA</title>
+      <link>https://T0116.github.io/tags/taga/</link>
+      <pubDate>Fri, 14 Aug 2020 11:14:47 +0800</pubDate>
+      
+      <guid>https://T0116.github.io/tags/taga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagB</title>
+      <link>https://T0116.github.io/tags/tagb/</link>
+      <pubDate>Fri, 14 Aug 2020 11:14:47 +0800</pubDate>
+      
+      <guid>https://T0116.github.io/tags/tagb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>期末</title>
@@ -44,51 +62,6 @@
       <pubDate>Wed, 12 Aug 2020 11:32:08 +0800</pubDate>
       
       <guid>https://T0116.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tagA</title>
-      <link>https://T0116.github.io/tags/taga/</link>
-      <pubDate>Tue, 14 Jul 2020 14:31:38 +0800</pubDate>
-      
-      <guid>https://T0116.github.io/tags/taga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tagB</title>
-      <link>https://T0116.github.io/tags/tagb/</link>
-      <pubDate>Tue, 14 Jul 2020 14:31:38 +0800</pubDate>
-      
-      <guid>https://T0116.github.io/tags/tagb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Basic Elements</title>
-      <link>https://T0116.github.io/tags/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://T0116.github.io/tags/basic-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>https://T0116.github.io/tags/css/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://T0116.github.io/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://T0116.github.io/tags/html/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://T0116.github.io/tags/html/</guid>
       <description></description>
     </item>
     

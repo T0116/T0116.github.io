@@ -5,8 +5,17 @@
     <description>Recent content in KeepIt on KeepIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2020 21:59:30 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 11:14:47 +0800</lastBuildDate>
     <atom:link href="https://T0116.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://T0116.github.io/posts/</link>
+      <pubDate>Fri, 14 Aug 2020 11:14:47 +0800</pubDate>
+      
+      <guid>https://T0116.github.io/posts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Posts</title>
@@ -14,15 +23,6 @@
       <pubDate>Thu, 13 Aug 2020 21:59:30 +0800</pubDate>
       
       <guid>https://T0116.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://T0116.github.io/posts/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://T0116.github.io/posts/</guid>
       <description></description>
     </item>
     
