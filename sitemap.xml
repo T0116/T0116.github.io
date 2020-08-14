@@ -1,170 +1,620 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://T0116.github.io/categories/</loc>
-    <lastmod>2020-08-13T21:59:30+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/2014/creating-a-new-theme/</loc>
+      
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/</loc>
-    <lastmod>2020-08-13T21:59:30+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/2014/migrate-from-jekyll/</loc>
+      
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/</loc>
-    <lastmod>2020-08-13T21:59:30+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/categories/</loc>
+      
+      <lastmod>2020-08-13T21:59:30+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/2020-08-13/</loc>
-    <lastmod>2020-08-13T21:59:30+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/</loc>
+      
+      <lastmod>2020-08-13T21:59:30+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/</loc>
-    <lastmod>2020-08-13T21:59:30+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/</loc>
+      
+      <lastmod>2020-08-13T21:59:30+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2020-08-13T21:59:30+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/</loc>
+      
+      <lastmod>2020-08-13T21:59:30+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/%E6%9C%9F%E6%9C%AB/</loc>
-    <lastmod>2020-08-13T21:59:30+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/2020-08-13/</loc>
+      
+      <lastmod>2020-08-13T21:59:30+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/%E8%80%83%E8%AF%95/</loc>
-    <lastmod>2020-08-13T21:59:30+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
+      
+      <lastmod>2020-08-13T21:59:30+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-08-12T11:32:08+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/%E6%9C%9F%E6%9C%AB/</loc>
+      
+      <lastmod>2020-08-13T21:59:30+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-08-12T11:32:08+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/%E8%80%83%E8%AF%95/</loc>
+      
+      <lastmod>2020-08-13T21:59:30+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</loc>
-    <lastmod>2020-08-12T11:32:08+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+      
+      <lastmod>2020-08-12T11:32:08+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-08-12T11:32:08+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</loc>
+      
+      <lastmod>2020-08-12T11:32:08+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/filename/</loc>
-    <lastmod>2020-07-14T14:31:38+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</loc>
+      
+      <lastmod>2020-08-12T11:32:08+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/taga/</loc>
-    <lastmod>2020-07-14T14:31:38+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+      
+      <lastmod>2020-08-12T11:32:08+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/tagb/</loc>
-    <lastmod>2020-07-14T14:31:38+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/filename/</loc>
+      
+      <lastmod>2020-07-14T14:31:38+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/hello-world/</loc>
-    <lastmod>2020-07-14T11:50:57+08:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/taga/</loc>
+      
+      <lastmod>2020-07-14T14:31:38+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/tagb/</loc>
+      
+      <lastmod>2020-07-14T14:31:38+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/hello-world/</loc>
+      
+      <lastmod>2020-07-14T11:50:57+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/css/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/basic-elements/</loc>
+      
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/categories/development/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/basic-elements/</loc>
+      
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/html/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/css/</loc>
+      
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/categories/development/</loc>
+      
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/html/</loc>
+      
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/creating-a-new-theme/</loc>
+      
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/posts/</loc>
+      
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/about/</loc>
+      
+      <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/about/</loc>
+      
+      <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/goisforlovers/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/2014/goisforlovers/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/tags/development/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/post/hugoisforlovers/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/2014/hugoisforlovers/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://T0116.github.io/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+      <loc>https://T0116.github.io/categories/go/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/tags/go/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/tags/golang/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/categories/golang/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/tags/hugo/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/2014/goisforlovers.fr/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/tags/templates/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/tags/themes/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/projects/migrate-from-jekyll/</loc>
+      
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/post/migrate-from-jekyll/</loc>
+      
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/projects/</loc>
+      
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://T0116.github.io/categories/uncategorized/</loc>
+      
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
 </urlset>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tagA on 咸鱼一条</title>
+    <title>tagA on KeepIt</title>
     <link>https://T0116.github.io/tags/taga/</link>
-    <description>Recent content in tagA on 咸鱼一条</description>
+    <description>Recent content in tagA on KeepIt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 14 Jul 2020 14:31:38 +0800</lastBuildDate>
     
 	<atom:link href="https://T0116.github.io/tags/taga/index.xml" rel="self" type="application/rss+xml" />
